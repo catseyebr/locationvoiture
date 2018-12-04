@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locadora>
+    <header_atendimento_bold>
+        <pt>Dúvidas?</pt>
+        <en>Dúvidas?</en>
+        <es>Dúvidas?</es>
+    </header_atendimento_bold>
+    <header_atendimento>
+        <pt>Acesse o chat</pt>
+        <en>Acesse o chat</en>
+        <es>Acesse o chat</es>
+    </header_atendimento>
+    <header_cliente_bold>
+        <pt>Área do cliente</pt>
+        <en>Área do cliente</en>
+        <es>Área do cliente</es>
+    </header_cliente_bold>
+    <header_cliente>
+        <pt>Modificar sua reserva</pt>
+        <en>Modificar sua reserva</en>
+        <es>Modificar sua reserva</es>
+    </header_cliente>
+    <header_telefone>
+        <pt>Acessar área de contatos</pt>
+        <en>Acessar área de contatos</en>
+        <es>Acessar área de contatos</es>
+    </header_telefone>
+    <h1>
+        <pt>ALUGUEL DE CARROS MAIS BARATO NA {$nome_locadora_caps}</pt>
+        <en>RENTAL CHEAPEST CAR IN {$nome_locadora_caps}</en>
+        <es>EN COCHES DE ALQUILER EN {$nome_locadora_caps}</es>
+    </h1>
+    <frase_h1>
+        <pt>Reserve online {$html.span}sem taxas de alteração{$html.span_end} ou cancelamento. Use o cartão de crédito apenas quando for retirar o veículo (não é necessário informar no site).</pt>
+        <en>Reserve online {$html.span}sem taxas de alteração{$html.span_end} ou cancelamento. Use o cartão de crédito apenas quando for retirar o veículo (não é necessário informar no site).</en>
+        <es>Reserve en línea : {$html.span}SIN la tarjeta de crédito{$html.span_end}, cargos por cambio o cancelación</es>
+    </frase_h1>
+    <frase_h1_mob>
+        <pt>Reserve online: {$html.span}SEM cartão de crédito{$html.span_end},{$html.br} taxas de alteração ou cancelamento</pt>
+        <en>Book online : {$html.span}WITHOUT credit card{$html.span_end},{$html.br} change fees or cancellation</en>
+        <es>Reserve en línea : {$html.span}SIN la tarjeta de crédito{$html.span_end},{$html.br} cargos por cambio o cancelación</es>
+    </frase_h1_mob>
+    <pesquisa_cidade_retirada>
+        <pt>Escolha onde retirar o carro</pt>
+        <en>Escolha onde retirar o carro</en>
+        <es>Escolha onde retirar o carro</es>
+    </pesquisa_cidade_retirada>
+    <pesquisa_cidade_devolucao>
+        <pt>Devolver em lugar diferente?</pt>
+        <en>Devolver em lugar diferente?</en>
+        <es>Devolver em lugar diferente?</es>
+    </pesquisa_cidade_devolucao>
+    <pesquisa_data>
+        <pt>Escolha dia e hora para retirar e devolver o carro</pt>
+        <en>Escolha dia e hora para retirar e devolver o carro</en>
+        <es>Escolha dia e hora para retirar e devolver o carro</es>
+    </pesquisa_data>
+    <pesquisa_data_reti>
+        <pt>Escolha dia e hora para retirar o carro</pt>
+        <en>Escolha dia e hora para retirar o carro</en>
+        <es>Escolha dia e hora para retirar o carro</es>
+    </pesquisa_data_reti>
+    <pesquisa_data_devo>
+        <pt>Escolha dia e hora para devolver o carro</pt>
+        <en>Escolha dia e hora para devolver o carro</en>
+        <es>Escolha dia e hora para devolver o carro</es>
+    </pesquisa_data_devo>
+    <titulo_accordion_1>
+        <pt>Conheça a frota e os preços da {$nome_locadora}</pt>
+        <en>Meet the fleet and the prices of {$nome_locadora}</en>
+        <es>Cumplir con la flota y las tarifas de {$nome_locadora}</es>
+    </titulo_accordion_1>
+    <titulo_accordion_2>
+        <pt>Tipos de proteção ofertadas pela {$nome_locadora}</pt>
+        <en>Types of protection offered by {$nome_locadora}</en>
+        <es>Tipos de protección que ofrece {$nome_locadora}</es>
+    </titulo_accordion_2>
+    <titulo_accordion_3>
+        <pt>Formas de pagamento na {$nome_locadora}</pt>
+        <en>Payment methods in the {$nome_locadora}</en>
+        <es>Modalidades de pago en {$nome_locadora}</es>
+    </titulo_accordion_3>
+    <titulo_accordion_4>
+        <pt>Localize as lojas da {$nome_locadora} por todo o Brasil</pt>
+        <en>Locate stores {$nome_locadora} throughout Brazil</en>
+        <es>{$nome_locadora} localizar tiendas en todo Brasil</es>
+    </titulo_accordion_4>
+    <titulo_accordion_5>
+        <pt>Conheça mais sobre a {$nome_locadora}</pt>
+        <en>Learn more about the {$nome_locadora}</en>
+        <es>Más información acerca de la {$nome_locadora}</es>
+    </titulo_accordion_5>
+    <titulo_accordion_6>
+        <pt>Outras locadoras de grande porte parceiras da CARROALUGUEL</pt>
+        <en>Other large stores partner of CARROALUGUEL</en>
+        <es>Otras tiendas grandes un socio de CARROALUGUEL</es>
+    </titulo_accordion_6>
+</locadora>

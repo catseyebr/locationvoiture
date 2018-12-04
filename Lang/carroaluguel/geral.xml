@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<geral>
+    <header_atendimento_bold>
+        <pt>Dúvidas?</pt>
+        <en>Doubts?</en>
+        <es>Dudas?</es>
+    </header_atendimento_bold>
+    <header_atendimento>
+        <pt>Acesse o chat</pt>
+        <en>Talk to an attendant now</en>
+        <es>Hable con un asistente ahora</es>
+    </header_atendimento>
+    <header_telefone_bold>
+        <pt>Reserve por telefone</pt>
+        <en>Book by phone</en>
+        <es>Reservas telefónicas</es>
+    </header_telefone_bold>
+    <header_telefone>
+        <pt>Acessar área de contatos</pt>
+        <en>Not from Brazil? Click here</en>
+        <es>No de Brasil? haga clic aquí</es>
+    </header_telefone>
+    <header_cliente>
+        <pt>Área do cliente</pt>
+        <en>Client{$html.br}area</en>
+        <es>Area{$html.br}de clientes</es>
+    </header_cliente>
+    <header_cliente_bold>
+        <pt>Área do cliente</pt>
+        <en>Client{$html.br}area</en>
+        <es>Area{$html.br}de clientes</es>
+    </header_cliente_bold>
+    <lang_cod>
+        <pt>pt-br</pt>
+        <en>en</en>
+        <es>es</es>
+    </lang_cod>
+    <cod_ga>
+        <pt>UA-3263959-3</pt>
+        <en>UA-3263959-8</en>
+        <es>UA-3263959-9</es>
+    </cod_ga>
+    <pesquisa_cidade_retirada>
+        <pt>Retirar carro em:</pt>
+        <en>Pick-up car in:</en>
+        <es>Retire coche in:</es>
+    </pesquisa_cidade_retirada>
+    <pesquisa_cidade_devolucao>
+        <pt>Devolver em uma cidade diferente</pt>
+        <en>Return in a different city</en>
+        <es>Regreso en una ciudad diferente</es>
+    </pesquisa_cidade_devolucao>
+    <pesquisa_data_retirada>
+        <pt>Retirada</pt>
+        <en>Pick-up</en>
+        <es>Retirada</es>
+    </pesquisa_data_retirada>
+    <pesquisa_data_devolucao>
+        <pt>Devolução</pt>
+        <en>Drop-off</en>
+        <es>Devolución</es>
+    </pesquisa_data_devolucao>
+    <pesquisa_botao>
+        <pt>Pesquisar os melhores preços</pt>
+        <en>Find best prices</en>
+        <es>Encontrar las mejores ofertas</es>
+    </pesquisa_botao>
+    <pesquisa_botao_mobile>
+        <pt>Buscar</pt>
+        <en>Search</en>
+        <es>Busque</es>
+    </pesquisa_botao_mobile>
+    <aviso_devolucao_titulo>
+        <pt>AVISO IMPORTANTE</pt>
+        <en>AVISO IMPORTANTE</en>
+        <es>AVISO IMPORTANTE</es>
+    </aviso_devolucao_titulo>
+    <aviso_devolucao_primeiro>
+        <pt>Ao devolver o veículo numa cidade diferente da de retirada, será cobrada taxa de retorno, cujo custo pode variar entre R$ 1,20 e R$ 1,50 (depende da locadora utilizada e é o valor X a distância entre as lojas).</pt>
+        <en>Ao devolver o veículo numa cidade diferente da de retirada, será cobrada taxa de retorno, cujo custo pode variar entre R$ 1,20 e R$ 1,50 (depende da locadora utilizada e é o valor X a distância entre as lojas).</en>
+        <es>Ao devolver o veículo numa cidade diferente da de retirada, será cobrada taxa de retorno, cujo custo pode variar entre R$ 1,20 e R$ 1,50 (depende da locadora utilizada e é o valor X a distância entre as lojas).</es>
+    </aviso_devolucao_primeiro>
+    <aviso_devolucao_segundo>
+        <pt>SALIENTAMOS que essa taxa não aparece na cotação a seguir, e só será agregada nas confirmações que são enviadas posteriormente, via e-mail.</pt>
+        <en>SALIENTAMOS que essa taxa não aparece na cotação a seguir, e só será agregada nas confirmações que são enviadas posteriormente, via e-mail.</en>
+        <es>SALIENTAMOS que essa taxa não aparece na cotação a seguir, e só será agregada nas confirmações que são enviadas posteriormente, via e-mail.</es>
+    </aviso_devolucao_segundo>
+    <aviso_devolucao_button>
+        <pt>CIENTE</pt>
+        <en>CIENTE</en>
+        <es>CIENTE</es>
+    </aviso_devolucao_button>
+</geral>

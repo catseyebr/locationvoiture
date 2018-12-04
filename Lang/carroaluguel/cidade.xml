@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cidade>
+    <frase_h1>
+        <pt>Compare preços de {$nmb_locadoras} locadoras e reserve online. {$html.span}SEM taxas{$html.span_end} de reserva e cancelamento.</pt>
+        <en>Compare {$nmb_locadoras} car rental companies and book online. {$html.span}NO booking fees{$html.span_end} and cancellation.</en>
+        <es>Comparar {$nmb_locadoras} compañías de alquiler de coches y reserva on-line. {$html.span}Sin gastos{$html.span_end} de reserva y cancelación.</es>
+    </frase_h1>
+</cidade>

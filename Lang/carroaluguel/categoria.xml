@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cidade>
+    <frase_h1>
+        <pt>Compare preços de {$nmb_locadoras} locadoras e reserve online. {$html.span}SEM taxas{$html.span_end} de reserva e cancelamento.</pt>
+        <en>Compare {$nmb_locadoras} car rental companies and book online. {$html.span}NO booking fees{$html.span_end} and cancellation.</en>
+        <es>Comparar {$nmb_locadoras} compañías de alquiler de coches y reserva on-line. {$html.span}Sin gastos{$html.span_end} de reserva y cancelación.</es>
+    </frase_h1>
+
+   <!-- Revisar tradução-->
+
+    <pesquisa_cidade_retirada>
+        <pt>Escolha onde retirar o carro: (digite o nome do aeroporto ou cidade)</pt>
+        <en>Choose where to pick up the car: (type the name of airport or city)</en>
+        <es>Elija dónde recoger el coche: (escriba el nombre del aeropuerto o de la ciudad)</es>
+    </pesquisa_cidade_retirada>
+
+    <pesquisa_cidade_retirada_mobile>
+        <pt>Retirar carro em:</pt>
+        <en>Pick-up car in:</en>
+        <es>Retire coche in:</es>
+    </pesquisa_cidade_retirada_mobile>
+
+    <pesquisa_cidade_devolucao>
+        <pt>Devolver em lugar diferente?</pt>
+        <en>Return in a different city</en>
+        <es>Regreso en una ciudad diferente</es>
+    </pesquisa_cidade_devolucao>
+
+    <pesquisa_data_retirada>
+    <pt>Escolha dia e hora para retirar o carro</pt>
+    <en>Pick-up</en>
+    <es>Retirada</es>
+    </pesquisa_data_retirada>
+    <pesquisa_data_devolucao>
+        <pt>Escolha dia e hora para devolver o carro.</pt>
+        <en>Drop-off</en>
+        <es>Devolución</es>
+    </pesquisa_data_devolucao>
+</cidade>

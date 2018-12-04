@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cotacao>
+    <header_atendimento_bold>
+        <pt>Dúvidas?</pt>
+        <en>Dúvidas?</en>
+        <es>Dúvidas?</es>
+    </header_atendimento_bold>
+    <header_atendimento>
+        <pt>Acesse o chat</pt>
+        <en>Acesse o chat</en>
+        <es>Acesse o chat</es>
+    </header_atendimento>
+    <header_cliente_bold>
+        <pt>Área do cliente</pt>
+        <en>Área do cliente</en>
+        <es>Área do cliente</es>
+    </header_cliente_bold>
+    <header_cliente>
+        <pt>Modificar sua reserva</pt>
+        <en>Modificar sua reserva</en>
+        <es>Modificar sua reserva</es>
+    </header_cliente>
+    <header_telefone>
+        <pt>Acessar área de contatos</pt>
+        <en>Acessar área de contatos</en>
+        <es>Acessar área de contatos</es>
+    </header_telefone>
+    <pesquisa_cidade_retirada>
+        <pt>Selecione o local de retirada do veículo</pt>
+        <en>Selecione o local de retirada do veículo</en>
+        <es>Selecione o local de retirada do veículo</es>
+    </pesquisa_cidade_retirada>
+    <pesquisa_cidade_devolucao>
+        <pt>Devolver em lugar diferente?</pt>
+        <en>Devolver em lugar diferente?</en>
+        <es>Devolver em lugar diferente?</es>
+    </pesquisa_cidade_devolucao>
+    <pesquisa_data>
+        <pt>Escolha dia e hora para retirar e devolver o carro</pt>
+        <en>Escolha dia e hora para retirar e devolver o carro</en>
+        <es>Escolha dia e hora para retirar e devolver o carro</es>
+    </pesquisa_data>
+    <pesquisa_data_retirada>
+        <pt>Data e hora da retirada:</pt>
+        <en>Data e hora da retirada:</en>
+        <es>Data e hora da retirada:</es>
+    </pesquisa_data_retirada>
+    <pesquisa_data_devolucao>
+        <pt>Data e hora da devolução:</pt>
+        <en>Data e hora da devolução:</en>
+        <es>Data e hora da devolução:</es>
+    </pesquisa_data_devolucao>
+    <pesquisa_botao>
+        <pt>Buscar Veículos</pt>
+        <en>Buscar Veículos</en>
+        <es>Buscar Veículos</es>
+    </pesquisa_botao>
+    <pesquisa_botao_mobile>
+        <pt>Buscar Veículos</pt>
+        <en>Buscar Veículos</en>
+        <es>Buscar Veículos</es>
+    </pesquisa_botao_mobile>
+    <pesquisa_cod_promocional>
+        <pt>Código Promocional</pt>
+        <en>Código Promocional</en>
+        <es>Código Promocional</es>
+    </pesquisa_cod_promocional>
+</cotacao>

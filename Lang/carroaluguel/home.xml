@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<home>
+    <h1>
+        <pt>Encontre os melhores preços para alugar um carro</pt>
+        <en>Cheap car rentals all over Brazil</en>
+        <es>Alquiler de Autos en todo Brasil</es>
+    </h1>
+    <!--{$nmb_locadoras} var com o numero de locadoras atuais no sistema-->
+    <h1_mbl>
+        <pt>Os Melhores preços para alugar um carro</pt>
+        <en>Cheap car rentals all over Brazil</en>
+        <es>Alquiler de Autos en todo Brasil</es>
+    </h1_mbl>
+    <header_atendimento_bold>
+        <pt>Dúvidas?</pt>
+        <en>Dúvidas?</en>
+        <es>Dúvidas?</es>
+    </header_atendimento_bold>
+    <header_atendimento>
+        <pt>Acesse o chat</pt>
+        <en>Acesse o chat</en>
+        <es>Acesse o chat</es>
+    </header_atendimento>
+    <header_cliente_bold>
+        <pt>Área do cliente</pt>
+        <en>Área do cliente</en>
+        <es>Área do cliente</es>
+    </header_cliente_bold>
+    <header_cliente>
+        <pt>Modificar sua reserva</pt>
+        <en>Modificar sua reserva</en>
+        <es>Modificar sua reserva</es>
+    </header_cliente>
+    <header_telefone>
+        <!--<pt>Reservar por telefone{$html.br}Não é seu DDD? Clique aqui</pt>-->
+        <pt>Acessar área de contatos</pt>
+        <en>Reservar por telefone</en>
+        <es>Reservar por telefone</es>
+    </header_telefone>
+    <frase_h1>
+        <pt>Pesquise em {$nmb_locadoras} locadoras de veículos no Brasil ao mesmo tempo.</pt>
+        <en>Compare {$nmb_locadoras} car rental companies and book online. {$html.span}NO booking fees{$html.span_end} and cancellation.</en>
+        <es>Comparar {$nmb_locadoras} compañías de alquiler de coches y reserva on-line. {$html.span}Sin gastos{$html.span_end} de reserva y cancelación.</es>
+    </frase_h1>
+    <frase_h1_mobile>
+        <pt>Compare {$nmb_locadoras} locadoras e reserve online.</pt>
+        <en>Compare {$nmb_locadoras} car rental companies and book online.</en>
+        <es>Comparar {$nmb_locadoras} compañías de alquiler de coches y reserva on-line.</es>
+    </frase_h1_mobile>
+    <lista_vantagens_primeiro_bold>
+        <pt>Mais barato que no balcão</pt>
+        <en>Cheaper than at the front counter</en>
+        <es>Más barato que en el mostrador</es>
+    </lista_vantagens_primeiro_bold>
+    <lista_vantagens_primeiro>
+        <pt>Pois negociamos grandes volumes</pt>
+        <en>For we negotiate large volumes</en>
+        <es>Para nosotros negociamos grandes volúmenes</es>
+    </lista_vantagens_primeiro>
+    <lista_vantagens_segundo_bold>
+        <pt>Reserve sem cartão de crédito</pt>
+        <en>Book without credit card</en>
+        <es>Reservar sin tarjeta de crédito</es>
+    </lista_vantagens_segundo_bold>
+    <lista_vantagens_segundo>
+        <pt>Reserve aqui e informe seu cartão somente na retirada do veículo</pt>
+        <en>Book here and enter your card only in the withdrawal of vehicle</en>
+        <es>Reserve aquí e introduzca su tarjeta sólo en la retirada del vehículo</es>
+    </lista_vantagens_segundo>
+    <lista_vantagens_terceiro_bold>
+        <pt>Retirada ágil e descomplicada</pt>
+        <en>Quick and uncomplicated withdrawal</en>
+        <es>Retirada rápida y sin complicaciones</es>
+    </lista_vantagens_terceiro_bold>
+    <lista_vantagens_terceiro>
+        <pt>Faça sua locação no site em apenas 3 minutos</pt>
+        <en>Make a lease on the site in just 3 minutes</en>
+        <es>Escribir un contrato de arrendamiento en el sitio en sólo 3 minutos</es>
+    </lista_vantagens_terceiro>
+    <mais_locadoras>
+        <pt>...e mais {$nmb_locadoras_mais} locadoras em todo o Brasil</pt>
+        <en>...and {$nmb_locadoras_mais} car rental companies in Brazil</en>
+        <es>...y {$nmb_locadoras_mais} empresas de alquiler de vehículos en Brasil</es>
+    </mais_locadoras>
+    <passos_bold>
+        <pt>Alugue um carro em 3 minutos:</pt>
+        <en>Alugue um carro em 3 minutos:</en>
+        <es>Alugue um carro em 3 minutos:</es>
+    </passos_bold>
+    <passos_primeiro_bold>
+        <pt>1. Pesquise no site</pt>
+        <en>1. Pesquise no site</en>
+        <es>1. Pesquise no site</es>
+    </passos_primeiro_bold>
+    <passos_primeiro>
+        <pt>Compare online {$nmb_locadoras} locadoras de veículos em {$nmb_cidades} cidades por todo Brasil</pt>
+        <en>Compare online {$nmb_locadoras} locadoras de veículos em {$nmb_cidades} cidades por todo Brasil</en>
+        <es>Compare online {$nmb_locadoras} locadoras de veículos em {$nmb_cidades} cidades por todo Brasil</es>
+    </passos_primeiro>
+    <passos_segundo_bold>
+        <pt>2. Reserve o veículo</pt>
+        <en>2. Reserve o veículo</en>
+        <es>2. Reserve o veículo</es>
+    </passos_segundo_bold>
+    <passos_segundo>
+        <pt>Leva apenas 3 minutos e você não paga nada no site.</pt>
+        <en>Leva apenas 3 minutos e você não paga nada no site.</en>
+        <es>Leva apenas 3 minutos e você não paga nada no site.</es>
+    </passos_segundo>
+    <passos_terceiro_bold>
+        <pt>3. Retire o carro</pt>
+        <en>3. Retire o carro</en>
+        <es>3. Retire o carro</es>
+    </passos_terceiro_bold>
+    <passos_terceiro>
+        <pt>Basta apresentar o nosso voucher e seu cartão de crédito.</pt>
+        <en>Basta apresentar o nosso voucher e seu cartão de crédito.</en>
+        <es>Basta apresentar o nosso voucher e seu cartão de crédito.</es>
+    </passos_terceiro>
+    <motivos_bold>
+        <pt>Toda vez que você aluga um carro sem cotar em nosso site, você está automaticamente {$html.b}perdendo tempo e dinheiro{$html.b_end}</pt>
+        <en>Toda vez que você aluga um carro sem cotar em nosso site, você está automaticamente {$html.b}perdendo tempo e dinheiro{$html.b_end}</en>
+        <es>Toda vez que você aluga um carro sem cotar em nosso site, você está automaticamente {$html.b}perdendo tempo e dinheiro{$html.b_end}</es>
+    </motivos_bold>
+    <motivos_frase>
+        <pt>Confira 6 motivos para {$html.b}nunca mais alugar um carro sem utilizar o nosso serviço:{$html.b_end}</pt>
+        <en>Confira 6 motivos para {$html.b}nunca mais alugar um carro sem utilizar o nosso serviço:{$html.b_end}</en>
+        <es>Confira 6 motivos para {$html.b}nunca mais alugar um carro sem utilizar o nosso serviço:{$html.b_end}</es>
+    </motivos_frase>
+    <motivos_primeiro>
+        <pt>{$html.b}É mais barato{$html.b_end} - Nós negociamos grandes volumes com as locadoras. Por isso, reservando em nosso site, normalmente você vai pagar menos do que indo direto ao balcão.</pt>
+        <en>{$html.b}É mais barato{$html.b_end} - Nós negociamos grandes volumes com as locadoras. Por isso, reservando em nosso site, normalmente você vai pagar menos do que indo direto ao balcão.</en>
+        <es>{$html.b}É mais barato{$html.b_end} - Nós negociamos grandes volumes com as locadoras. Por isso, reservando em nosso site, normalmente você vai pagar menos do que indo direto ao balcão.</es>
+    </motivos_primeiro>
+    <motivos_segundo>
+        <pt>{$html.b}Você não precisa informar dados de cartão de crédito para reservar{$html.b_end} - Faça sua reserva conosco, fique tranquilo para retirar o veículo e faça o pagamento DIRETO À LOCADORA.</pt>
+        <en>{$html.b}Você não precisa informar dados de cartão de crédito para reservar{$html.b_end} - Faça sua reserva conosco, fique tranquilo para retirar o veículo e faça o pagamento DIRETO À LOCADORA.</en>
+        <es>{$html.b}Você não precisa informar dados de cartão de crédito para reservar{$html.b_end} - Faça sua reserva conosco, fique tranquilo para retirar o veículo e faça o pagamento DIRETO À LOCADORA.</es>
+    </motivos_segundo>
+    <motivos_terceiro>
+        <pt>{$html.b}Não cobramos nenhuma taxa{$html.b_end} para a sua reserva, nem mesmo em casos de cancelamentos ou alterações.</pt>
+        <en>{$html.b}Não cobramos nenhuma taxa{$html.b_end} para a sua reserva, nem mesmo em casos de cancelamentos ou alterações.</en>
+        <es>{$html.b}Não cobramos nenhuma taxa{$html.b_end} para a sua reserva, nem mesmo em casos de cancelamentos ou alterações.</es>
+    </motivos_terceiro>
+    <motivos_quarto>
+        <pt>{$html.b}Você não paga nada a mais reservando online{$html.b_end} - Nosso lucro vem da comissão paga PELAS LOCADORAS, sem nenhum acréscimo no valor cobrado dos clientes.</pt>
+        <en>{$html.b}Você não paga nada a mais reservando online{$html.b_end} - Nosso lucro vem da comissão paga PELAS LOCADORAS, sem nenhum acréscimo no valor cobrado dos clientes.</en>
+        <es>{$html.b}Você não paga nada a mais reservando online{$html.b_end} - Nosso lucro vem da comissão paga PELAS LOCADORAS, sem nenhum acréscimo no valor cobrado dos clientes.</es>
+    </motivos_quarto>
+    <motivos_quinto>
+        <pt>{$html.b}Alugue seu carro com muito mais comodidade{$html.b_end} - Utilizando nosso site você tem tudo o que precisa para decidir. Resolva tudo do conforto da sua casa ou escritório, sem perda de tempo, telefonemas ou deslocamentos.</pt>
+        <en>{$html.b}Alugue seu carro com muito mais comodidade{$html.b_end} - Utilizando nosso site você tem tudo o que precisa para decidir. Resolva tudo do conforto da sua casa ou escritório, sem perda de tempo, telefonemas ou deslocamentos.</en>
+        <es>{$html.b}Alugue seu carro com muito mais comodidade{$html.b_end} - Utilizando nosso site você tem tudo o que precisa para decidir. Resolva tudo do conforto da sua casa ou escritório, sem perda de tempo, telefonemas ou deslocamentos.</es>
+    </motivos_quinto>
+    <motivos_sexto>
+        <pt>{$html.b}Tudo o que você precisa saber, reunido num só lugar{$html.b_end} - Compare, em tempo real, não somente o preço de cada locadora, mas também as condições de parcelamento, avaliação dos clientes e valores de caução.</pt>
+        <en>{$html.b}Tudo o que você precisa saber, reunido num só lugar{$html.b_end} - Compare, em tempo real, não somente o preço de cada locadora, mas também as condições de parcelamento, avaliação dos clientes e valores de caução.</en>
+        <es>{$html.b}Tudo o que você precisa saber, reunido num só lugar{$html.b_end} - Compare, em tempo real, não somente o preço de cada locadora, mas também as condições de parcelamento, avaliação dos clientes e valores de caução.</es>
+    </motivos_sexto>
+    <destaque_cidades_title>
+        <pt>Confira ofertas pelo Brasil</pt>
+        <en>Aluguel de Veículos nos principais destinos do Brasil</en>
+        <es>Aluguel de Veículos nos principais destinos do Brasil</es>
+    </destaque_cidades_title>
+    <destaque_cidades_frase>
+        <pt>Quer alugar por mais de 3 dias?{$html.br}Os preços são ainda mais baixos!</pt>
+        <en>Quer alugar por mais de 3 dias?{$html.br}Os preços são ainda mais baixos!</en>
+        <es>Quer alugar por mais de 3 dias?{$html.br}Os preços são ainda mais baixos!</es>
+    </destaque_cidades_frase>
+    <destaque_cidades_button>
+        <pt>Faça uma cotação</pt>
+        <en>Faça uma cotação</en>
+        <es>Faça uma cotação</es>
+    </destaque_cidades_button>
+    <texto_primeiro_titulo>
+        <pt>Locadora de Veículos</pt>
+        <en>Locadora de Veículos</en>
+        <es>Locadora de Veículos</es>
+    </texto_primeiro_titulo>
+    <texto_primeiro>
+        <pt>Ter autonomia e independência ao usar o carro em diferentes regiões. Essa realidade é completamente possível com a CarroAluguel.com! Com valores que cabem no bolso, é possível ter um carro em mãos e desfrutar da comodidade e segurança para se deslocar tranquilamente em diversas cidades, seja a trabalho ou lazer.</pt>
+        <en>Ter autonomia e independência ao usar o carro em diferentes regiões. Essa realidade é completamente possível com a CarroAluguel.com! Com valores que cabem no bolso, é possível ter um carro em mãos e desfrutar da comodidade e segurança para se deslocar tranquilamente em diversas cidades, seja a trabalho ou lazer.</en>
+        <es>Ter autonomia e independência ao usar o carro em diferentes regiões. Essa realidade é completamente possível com a CarroAluguel.com! Com valores que cabem no bolso, é possível ter um carro em mãos e desfrutar da comodidade e segurança para se deslocar tranquilamente em diversas cidades, seja a trabalho ou lazer.</es>
+    </texto_primeiro>
+    <texto_primeiro_subtitulo>
+        <pt>Confiança</pt>
+        <en>Confiança</en>
+        <es>Confiança</es>
+    </texto_primeiro_subtitulo>
+    <texto_primeiro_subtitulo_texto>
+        <pt>A CarroAluguel.com oferece um serviço especializado e de qualidade, com a segurança de encontrar as melhores condições em uma locadora de veículos parceira. São 344 cidades e 1278 lojas espalhadas pelo Brasil, garantindo rapidez e praticidade. Toda a reserva é feita online, sem a necessidade de informar o cartão de crédito no site.</pt>
+        <en>A CarroAluguel.com oferece um serviço especializado e de qualidade, com a segurança de encontrar as melhores condições em uma locadora de veículos parceira. São 344 cidades e 1278 lojas espalhadas pelo Brasil, garantindo rapidez e praticidade. Toda a reserva é feita online, sem a necessidade de informar o cartão de crédito no site.</en>
+        <es>A CarroAluguel.com oferece um serviço especializado e de qualidade, com a segurança de encontrar as melhores condições em uma locadora de veículos parceira. São 344 cidades e 1278 lojas espalhadas pelo Brasil, garantindo rapidez e praticidade. Toda a reserva é feita online, sem a necessidade de informar o cartão de crédito no site.</es>
+    </texto_primeiro_subtitulo_texto>
+    <texto_segundo_titulo>
+        <pt>Locação de veículos é nossa especialidade!</pt>
+        <en>Locação de veículos é nossa especialidade!</en>
+        <es>Locação de veículos é nossa especialidade!</es>
+    </texto_segundo_titulo>
+    <texto_segundo_sub_primeiro_bold>
+        <pt>Alugar um carro</pt>
+        <en>Alugar um carro</en>
+        <es>Alugar um carro</es>
+    </texto_segundo_sub_primeiro_bold>
+    <texto_segundo_sub_primeiro>
+        <pt>em diferentes regiões garante autonomia, segurança e comodidade. Seja a trabalho ou a lazer, a CarroAluguel.com tem os melhores preços para você! O setor, que nasceu em 1918, cresceu muito nos últimos anos e ganha cada vez mais espaço.</pt>
+        <en>em diferentes regiões garante autonomia, segurança e comodidade. Seja a trabalho ou a lazer, a CarroAluguel.com tem os melhores preços para você! O setor, que nasceu em 1918, cresceu muito nos últimos anos e ganha cada vez mais espaço.</en>
+        <es>em diferentes regiões garante autonomia, segurança e comodidade. Seja a trabalho ou a lazer, a CarroAluguel.com tem os melhores preços para você! O setor, que nasceu em 1918, cresceu muito nos últimos anos e ganha cada vez mais espaço.</es>
+    </texto_segundo_sub_primeiro>
+    <texto_segundo_sub_segundo_bold>
+        <pt>Segurança</pt>
+        <en>Segurança</en>
+        <es>Segurança</es>
+    </texto_segundo_sub_segundo_bold>
+    <texto_segundo_sub_segundo>
+        <pt>A CarroAluguel.com é referência de confiança e segurança em mais de {$nmb_lojas} lojas localizadas em {$nmb_cidades} cidades por todo o Brasil. Para diminuir os riscos e aumentar o {$html.b}conforto para o cliente{$html.b_end}, não pedimos que seu cartão de crédito seja informado em nosso site, no ato da reserva. Todos os nossos carros também saem com seguro incluso desde a reserva.</pt>
+        <en>A CarroAluguel.com é referência de confiança e segurança em mais de {$nmb_lojas} lojas localizadas em {$nmb_cidades} cidades por todo o Brasil. Para diminuir os riscos e aumentar o {$html.b}conforto para o cliente{$html.b_end}, não pedimos que seu cartão de crédito seja informado em nosso site, no ato da reserva. Todos os nossos carros também saem com seguro incluso desde a reserva.</en>
+        <es>A CarroAluguel.com é referência de confiança e segurança em mais de {$nmb_lojas} lojas localizadas em {$nmb_cidades} cidades por todo o Brasil. Para diminuir os riscos e aumentar o {$html.b}conforto para o cliente{$html.b_end}, não pedimos que seu cartão de crédito seja informado em nosso site, no ato da reserva. Todos os nossos carros também saem com seguro incluso desde a reserva.</es>
+    </texto_segundo_sub_segundo>
+    <texto_segundo_sub_terceiro_bold>
+        <pt>Especialização</pt>
+        <en>Especialização</en>
+        <es>Especialização</es>
+    </texto_segundo_sub_terceiro_bold>
+    <texto_segundo_sub_terceiro>
+        <pt>Trabalhamos exclusivamente com locação de carros, por isso oferecemos o melhor serviço. Nossa missão é fornecer o melhor custo-benefício a nossos clientes, somado ao melhor atendimento e total transparência no contrato e em eventuais transações.</pt>
+        <en>Trabalhamos exclusivamente com locação de carros, por isso oferecemos o melhor serviço. Nossa missão é fornecer o melhor custo-benefício a nossos clientes, somado ao melhor atendimento e total transparência no contrato e em eventuais transações.</en>
+        <es>Trabalhamos exclusivamente com locação de carros, por isso oferecemos o melhor serviço. Nossa missão é fornecer o melhor custo-benefício a nossos clientes, somado ao melhor atendimento e total transparência no contrato e em eventuais transações.</es>
+    </texto_segundo_sub_terceiro>
+    <texto_segundo_sub_quarto_bold>
+        <pt>Como alugar um carro?</pt>
+        <en>Como alugar um carro?</en>
+        <es>Como alugar um carro?</es>
+    </texto_segundo_sub_quarto_bold>
+    <texto_segundo_sub_quarto>
+        <pt>É necessário possuir um cartão de crédito com limite disponível, permitindo um saque de segurança que é devolvido no retorno do veículo. Também é preciso ser habilitado há dois anos, ser maior de 21 anos e não ter restrições no CPF. Consulte nossos profissionais para locações especiais.</pt>
+        <en>É necessário possuir um cartão de crédito com limite disponível, permitindo um saque de segurança que é devolvido no retorno do veículo. Também é preciso ser habilitado há dois anos, ser maior de 21 anos e não ter restrições no CPF. Consulte nossos profissionais para locações especiais.</en>
+        <es>É necessário possuir um cartão de crédito com limite disponível, permitindo um saque de segurança que é devolvido no retorno do veículo. Também é preciso ser habilitado há dois anos, ser maior de 21 anos e não ter restrições no CPF. Consulte nossos profissionais para locações especiais.</es>
+    </texto_segundo_sub_quarto>
+    <texto_segundo_sub_quinto_bold>
+        <pt>Quanto custa?</pt>
+        <en>Quanto custa?</en>
+        <es>Quanto custa?</es>
+    </texto_segundo_sub_quinto_bold>
+    <texto_segundo_sub_quinto>
+        <pt>Os valores dos carros variam bastante, pois os modelos vão desde básicos aos mais luxuosos. Com certeza você vai encontrar o veículo com os benefícios e valores que busca, seja para lazer (50% das locações), negócios (11%), uso local (8%), substituição de carro em conserto (8%) ou casamentos (8%). Não por acaso a locação de veículos está entre os serviços que mais crescem no país.</pt>
+        <en>Os valores dos carros variam bastante, pois os modelos vão desde básicos aos mais luxuosos. Com certeza você vai encontrar o veículo com os benefícios e valores que busca, seja para lazer (50% das locações), negócios (11%), uso local (8%), substituição de carro em conserto (8%) ou casamentos (8%). Não por acaso a locação de veículos está entre os serviços que mais crescem no país.</en>
+        <es>Os valores dos carros variam bastante, pois os modelos vão desde básicos aos mais luxuosos. Com certeza você vai encontrar o veículo com os benefícios e valores que busca, seja para lazer (50% das locações), negócios (11%), uso local (8%), substituição de carro em conserto (8%) ou casamentos (8%). Não por acaso a locação de veículos está entre os serviços que mais crescem no país.</es>
+    </texto_segundo_sub_quinto>
+    <texto_segundo_sub_sexto_bold>
+        <pt>Alugue na CarroAluguel.com</pt>
+        <en>Alugue na CarroAluguel.com</en>
+        <es>Alugue na CarroAluguel.com</es>
+    </texto_segundo_sub_sexto_bold>
+    <texto_segundo_sub_sexto>
+        <pt>Aqui você encontra profissionais especializados, que entendem suas necessidades e possibilidades. Garantimos os melhores preços do mercado, qualidade, segurança e excelência. Trabalhamos com 85 locadoras e muitas lojas. Faça uma busca em nosso site e confira nossas ofertas!</pt>
+        <en>Aqui você encontra profissionais especializados, que entendem suas necessidades e possibilidades. Garantimos os melhores preços do mercado, qualidade, segurança e excelência. Trabalhamos com 85 locadoras e muitas lojas. Faça uma busca em nosso site e confira nossas ofertas!</en>
+        <es>Aqui você encontra profissionais especializados, que entendem suas necessidades e possibilidades. Garantimos os melhores preços do mercado, qualidade, segurança e excelência. Trabalhamos com 85 locadoras e muitas lojas. Faça uma busca em nosso site e confira nossas ofertas!</es>
+    </texto_segundo_sub_sexto>
+</home>
